@@ -22,18 +22,9 @@ nav > ul {
   background-color: #eee8d5;
 }
 
-#contents {
-  color: #93a1a1;
-}
-
-#favs {
-  color: #93a1a1;
-}
-
-#facts {
-  color: #93a1a1;
-}
-
+#contents
+#favs
+#facts
 #types {
   color: #93a1a1;
 }
